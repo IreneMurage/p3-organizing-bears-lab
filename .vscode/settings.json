@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "my file",
+            "database": "${workspaceFolder:p3-organizing-bears-lab}/lib/db.db"
+        }
+    ]
+}
